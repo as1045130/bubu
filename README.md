@@ -37,7 +37,7 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AndroidImageViewer.git
+   git clone https://github.com/as1045130/bubu.git
    ```
 
 2. 用 **Android Studio Hedgehog (2024.1.1)** 或更高版本打开项目
