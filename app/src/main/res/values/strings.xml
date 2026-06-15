@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">图片浏览器</string>
+    <string name="permission_title">需要存储权限</string>
+    <string name="permission_message">为了显示您的图片，我们需要访问您设备上的图片文件。</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="no_images">未找到图片</string>
+    <string name="loading">加载中…</string>
+    <string name="share">分享</string>
+    <string name="delete">删除</string>
+    <string name="info">详情</string>
+    <string name="back">返回</string>
+    <string name="all_images">全部图片</string>
+    <string name="select_folder">选择文件夹</string>
+    <string name="image_info">图片详情</string>
+    <string name="load_failed">加载失败</string>
+    <string name="image_deleted">图片已删除</string>
+    <string name="delete_failed">删除失败</string>
+    <string name="share_failed">分享失败</string>
+</resources>
